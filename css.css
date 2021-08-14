@@ -80,18 +80,6 @@
 	margin-top:3em;
 }
 
-.button {
-	background-color: red;
-    float:right;
-    font-size: 20px;
-    border-radius: 2px;
-    font-weight: bold;
-    font-style: sanserif;
-    color:black;
-    margin-right: 20px;
-    position: sticky;
-}
-
 @media screen and (max-width: 768px) {
 	.box{
 		width:100%;
